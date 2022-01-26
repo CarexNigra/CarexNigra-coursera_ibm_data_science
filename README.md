@@ -1,6 +1,6 @@
 # coursera_ibm_data_science
 
-Folder ibm_courses_assignments contain working files and assignments created during the IBM datascience specialization courses on Coursera
+Folder ibm_courses_assignments contain working files and assignments created during the </a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM datascience specialization</a> courses on Coursera
 
 Folder ibm_capstone_project contains
 1. ibm_capstone_project_notebook – final notebook with all calculations neat and cleaned 
